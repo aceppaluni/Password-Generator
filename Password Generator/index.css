@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background-image: linear-gradient(to left, red, purple);
+    color: lightsteelblue;
+}
+#gen-container {
+    text-align: center;
+    padding: 10px; 
+    
+    
+}
+span {
+    color: aqua
+}
+#note {
+    color: white;
+}
+#br {
+    border: 2px dashed white;
+}
+#password-place {
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px; 
+
+}
+#passwordOne, #passwordTwo {
+    background-color: blueviolet;
+    color:beige
+}
